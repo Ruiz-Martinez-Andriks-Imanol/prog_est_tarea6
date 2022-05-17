@@ -1,4 +1,4 @@
-# prog_parcial2_tarea6
+# prog_est_tarea6
 <p><b>Autor:</b> Andriks Imanol Ruiz Martínez, <b>Fecha:</b> 07/04/2022 <br>
   <b>Escuela:</b> Universidad del Valle de México <b>Campus</b> Villahermosa <br>
   <b>Materia:</b> Programación Estructurada <br>
